@@ -1,0 +1,708 @@
+body{
+    background: black;
+}
+#gred{
+    /* Background Gradient */
+/* Background Gradient */
+
+position: absolute;
+width: 1440px;
+height: 550px;
+left: calc(50% - 1440px/2);
+top: 0px;
+
+background: #1A1A1A;
+opacity: 0.2;
+
+}
+#elipse1{
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 15.26%;
+right: 45.17%;
+top: -11.26%;
+bottom: 78.79%;
+
+background: rgba(63, 100, 233, 0.43);
+filter: blur(118.081px);
+
+
+}
+#elipse2{
+    /* Ellipse 3 */
+
+position: absolute;
+left: 30.76%;
+right: 29.68%;
+top: -15.06%;
+bottom: 67.18%;
+
+background: rgba(233, 63, 63, 0.43);
+filter: blur(118.081px);
+
+
+}
+#elipse3{
+    /* Ellipse 5 */
+
+position: absolute;
+left: 42.59%;
+right: 17.85%;
+top: -11.25%;
+bottom: 86.13%;
+
+background: rgba(255, 184, 0, 0.43);
+filter: blur(118.081px);
+
+}
+nav{
+    /* Navbar / Web */
+
+position: absolute;
+width: 1024px;
+height: 181px;
+left: 244px;
+top: 32px;
+
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px;
+gap: 156px;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 66.85%;
+
+background: rgba(24, 24, 29, 0.3);
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 12px;
+
+
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+margin: 0 auto;
+width: 524.87px;
+height: 26px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo */
+
+width: 39.87px;
+height: 26px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Basic/White */
+background: #FFFFFF;
+
+
+/* About */
+
+width: 47px;
+height: 19px;
+
+/* Inter/16/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+/* Basic/Light Gray */
+color: #C5C5C5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Work */
+
+width: 40px;
+height: 19px;
+
+/* Inter/16/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+/* Basic/Light Gray */
+color: #C5C5C5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Notebook */
+
+width: 76px;
+height: 19px;
+
+/* Inter/16/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+/* Basic/Light Gray */
+color: #C5C5C5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 62px;
+height: 19px;
+
+/* Inter/16/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+/* Basic/Light Gray */
+color: #C5C5C5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 60px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* More */
+
+width: 40px;
+height: 19px;
+
+/* Inter/16/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+/* Basic/Light Gray */
+color: #C5C5C5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Chevron/down */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 42.25%;
+bottom: 41.09%;
+
+border: 1.66667px solid #C5C5C5;
+
+
+/* Frame 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 192px;
+height: 24px;
+
+opacity: 0.7;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* LinkedIn */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 4.18%;
+right: 4.17%;
+top: 4.17%;
+bottom: 4.18%;
+
+
+
+/* Subtract */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 1px;
+top: 1px;
+
+/* Basic/White */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.18%;
+right: 4.17%;
+top: 4.17%;
+bottom: 4.18%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.91%;
+right: 16.9%;
+top: 16.9%;
+bottom: 16.9%;
+
+background: #111111;
+
+
+/* X */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+display: none;
+width: 23.5px;
+height: 20.43px;
+
+/* Basic/White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 5.22%;
+right: 4.89%;
+top: 9.38%;
+bottom: 9.38%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 5.22%;
+right: 4.89%;
+top: 9.38%;
+bottom: 9.38%;
+
+background: #000000;
+
+
+/* Github */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* github-mark 1 */
+
+position: absolute;
+width: 24px;
+height: 23.51px;
+left: calc(50% - 24px/2);
+top: calc(50% - 23.51px/2 - 0.24px);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.38%;
+top: 0%;
+bottom: 0%;
+
+/* Basic/White */
+background: #FFFFFF;
+
+
+/* Line 9 */
+
+width: 24px;
+height: 0px;
+
+/* Dark/White - 25% */
+border: 1px solid rgba(255, 255, 255, 0.25);
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Sun */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 4.17%;
+bottom: 4.17%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 29.17%;
+bottom: 29.17%;
+
+/* Basic/White */
+border: 2px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 4.17%;
+bottom: 4.17%;
+
+/* Basic/White */
+border: 2px solid #FFFFFF;
+
+
+/* Frame 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+display: none;
+width: 44px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px 24px;
+gap: 16px;
+
+position: absolute;
+height: 121px;
+left: 40.62%;
+right: 46.39%;
+top: 60px;
+
+background: rgba(24, 24, 24, 0.6);
+box-shadow: 0px 5px 7px rgba(0, 0, 0, 0.11), inset 0px 8px 5px rgba(0, 0, 0, 0.07);
+backdrop-filter: blur(6px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 0px 0px 12px 12px;
+
+
+/* Bookshelf */
+
+width: 77px;
+height: 19px;
+
+/* Inter/16/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+/* Basic/Light Gray */
+color: #C5C5C5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tech Stack */
+
+width: 85px;
+height: 19px;
+
+/* Inter/16/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+/* Basic/Light Gray */
+color: #C5C5C5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* This UI Kit */
+
+width: 79px;
+height: 19px;
+
+/* Inter/16/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+/* Basic/Light Gray */
+color: #C5C5C5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+#frame1{
+    /* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px;
+gap: 156px;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 66.85%;
+
+background: rgba(24, 24, 29, 0.3);
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 12px;
+
+}
+#frame1a{
+    /* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+margin: 0 auto;
+width: 524.87px;
+height: 26px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+#home{
+    /* About */
+
+width: 47px;
+height: 19px;
+
+/* Inter/16/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+/* Basic/Light Gray */
+color: #C5C5C5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
